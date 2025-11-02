@@ -1,3 +1,5 @@
+<div align="center">
+
 # dabwsnow
 
 ```
@@ -7,7 +9,6 @@
 | (_| | (_| | |_) \ V  V /\__ \ | | | (_) \ V  V / 
  \__,_|\__,_|_.__/ \_/\_/ |___/_| |_|\___/ \_/\_/  
                                                     
-> coder.
 ```
 
 **Frontend**  
@@ -33,24 +34,8 @@
 
 ---
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "dabwsnow"
-        self.role = "Fullstack Developer"
-        self.location = "Terminal"
-        
-    def say_hi(self):
-        print("Code is my weapon. No logs. No traces.")
-
-me = Developer()
-me.say_hi()
-```
-
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  
-### 💀 no logs. no traces. pure logic. 💀
+### no logs. no traces.
 
 </div>
