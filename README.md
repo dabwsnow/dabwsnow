@@ -1,15 +1,6 @@
 <div align="center">
 
-# dabwsnow
-
-```
-     _       _                                    
-  __| | __ _| |____      _____ _ __   _____      __
- / _` |/ _` | '_ \ \ /\ / / __| '_ \ / _ \ \ /\ / /
-| (_| | (_| | |_) \ V  V /\__ \ | | | (_) \ V  V / 
- \__,_|\__,_|_.__/ \_/\_/ |___/_| |_|\___/ \_/\_/  
-                                                    
-```
+# >_< dabwsnow
 
 **Frontend**  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
