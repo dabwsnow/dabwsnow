@@ -1,5 +1,14 @@
-## Hi there 👋
+# dabwsnow
 
+```
+     _       _                                    
+  __| | __ _| |____      _____ _ __   _____      __
+ / _` |/ _` | '_ \ \ /\ / / __| '_ \ / _ \ \ /\ / /
+| (_| | (_| | |_) \ V  V /\__ \ | | | (_) \ V  V / 
+ \__,_|\__,_|_.__/ \_/\_/ |___/_| |_|\___/ \_/\_/  
+                                                    
+> coder.
+```
 
 **Frontend**  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -21,6 +30,27 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dabwsnow&show_icons=true&theme=dark)
+---
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "dabwsnow"
+        self.role = "Fullstack Developer"
+        self.location = "Terminal"
+        
+    def say_hi(self):
+        print("Code is my weapon. No logs. No traces.")
+
+me = Developer()
+me.say_hi()
+```
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  
+### 💀 no logs. no traces. pure logic. 💀
+
+</div>
